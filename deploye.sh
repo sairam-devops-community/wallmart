@@ -15,3 +15,5 @@ Just we are testing the stash command here.
 
 
 Now I'm in test of clone url
+
+Here to use pull command now
